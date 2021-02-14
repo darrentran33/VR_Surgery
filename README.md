@@ -4,4 +4,6 @@ Access the game at https://darrentran33.github.io/VR_Surgery/Gamestore/index.htm
 
 Pickup the tools on the cart to trigger an effect.
 
-Refresh the game each time you pick up a tool as the game originally is set to communicate to an arduino.
+Right click to exit the scene.
+
+Pres esc 2 times to show the cursor to pickup tools.
